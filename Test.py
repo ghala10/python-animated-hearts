@@ -23,7 +23,7 @@ def update(i):
     for small_heart in small_hearts:
         small_heart.set_data([], [])
 
-    text.set_text("RAWAN")
+    text.set_text("ghala")
 
     angles = np.linspace(0, 2 * np.pi, len(small_hearts))
     radius = 20
